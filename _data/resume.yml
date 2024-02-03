@@ -30,15 +30,16 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育经历 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
+  - title: 吉林大学
+    duration: "2019年9月至今"
+    sub: 吉林长春 博士研究生（硕博连读）
+    detail: 地质工程专业
+
   - title: 长安大学
     duration: "2015年9月 - 2019年6月"
     sub: 陕西西安 工学学士
     detail: 地质工程专业
 
-  - title: 吉林大学
-    duration: "2019年9月至今"
-    sub: 吉林长春 博士研究生（硕博连读）
-    detail: 地质工程专业
 
 - type: skills
   name: "专业技能"
